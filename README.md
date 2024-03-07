@@ -1,4 +1,4 @@
-#### To-Do List
+## To-Do List
 
 <img width="926" alt="home Page" src="https://github.com/garimaj02/JavaScript-Projects/assets/140293634/3aabb021-dd59-474e-b728-a256f26aca10"><br>
 Home Page Of The Project<br>
@@ -16,10 +16,10 @@ Updating a Task<br>
 After Deleting The Task
 
 
-#####  QR Code Generator
+##  QR Code Generator
 
 <img width="929" alt="Screenshot 2024-03-07 132615" src="https://github.com/garimaj02/JavaScript-Projects/assets/140293634/9cf31a0d-6589-4f66-b2a7-33e6cc9a6ee0">
-**Home Page**-Enter any text or url.
+Home Page-Enter any text or url.
 
 <img width="925" alt="Screenshot 2024-03-07 133043" src="https://github.com/garimaj02/JavaScript-Projects/assets/140293634/a32c7264-51e5-45a4-8f8b-18c4013a1d2e">
-**Generating url**- After entering url press the Generate QR Code Button.
+Generating url- After entering url press the Generate QR Code Button.
